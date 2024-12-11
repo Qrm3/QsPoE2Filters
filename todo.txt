@@ -23,3 +23,6 @@ Uniques
   Add Uniques.filter file
   Determine what uniques are worth highlighting
 
+Rare Items
+  Create "main" filter file to add rares.
+  Add highlighting for good rare bases
