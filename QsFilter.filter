@@ -2,6 +2,4 @@
 Import "Currency.filter"
 Import "ItemBases.filter"
 Import "Uniques.filter"
-
-
-
+Import "Maps.filter"
