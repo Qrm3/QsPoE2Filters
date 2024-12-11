@@ -1,0 +1,4 @@
+Show
+    Class == "Stackable Currency"
+    BaseType == "Scroll of Wisdom"
+    SetFontSize 40
