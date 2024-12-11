@@ -73,3 +73,13 @@ Show
     SetFontSize 45
     SetTextColor 240 130 180
     SetBorderColor 240 130 180
+# The Best Stuff
+Show
+    Class == "Stackable Currency"
+    BaseType == "Divine Orb"
+    SetFontSize 45
+    SetTextColor 240 130 180
+    SetBorderColor 240 130 180
+    SetBackgroundColor 255 255 255 255
+    MinimapIcon 1 Purple Circle
+    PlayEffect Purple
