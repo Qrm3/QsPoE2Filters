@@ -18,3 +18,8 @@ Currencies
   Add all Distilled Emotions
   Add all Runes
   Add all Soul Cores
+
+Uniques
+  Add Uniques.filter file
+  Determine what uniques are worth highlighting
+
