@@ -42,6 +42,32 @@ Show
     SetFontSize 25
     SetTextColor 230 200 130
     SetBorderColor 230 200 130
+# Quality Currencies
+# Arcanist's Etcher, Armorer's Scrap, Blacksmith's Whetstones, Gemcutter's Prisms
+Show
+    Class == "Stackable Currency"
+    BaseType == "Arcanist's Etcher" # TODO Check the BaseType of the item in game
+    SetFontSize 30
+    SetTextColor 240 130 180
+    SetBorderColor 240 130 180
+Show
+    Class == "Stackable Currency"
+    BaseType == "Armorer's Scrap" # TODO Check the BaseType of the item in game
+    SetFontSize 30
+    SetTextColor 240 130 180
+    SetBorderColor 240 130 180
+Show
+    Class == "Stackable Currency"
+    BaseType == "Blacksmith's Whetstone" # TODO Check the BaseType of the item in game
+    SetFontSize 30
+    SetTextColor 240 130 180
+    SetBorderColor 240 130 180
+Show
+    Class == "Stackable Currency"
+    BaseType == "Gemcutter's Prism" # TODO Check the BaseType of the item in game
+    SetFontSize 30
+    SetTextColor 240 130 180
+    SetBorderColor 240 130 180
 # The Good Stuff
 # Alchs, Chaos, Regals, Vaals, Exalts
 Show
