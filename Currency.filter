@@ -68,6 +68,33 @@ Show
     SetFontSize 30
     SetTextColor 240 130 180
     SetBorderColor 240 130 180
+# Jeweler's Orbs
+# Lesser, Greater, Perfect
+Show 
+    Class == "Stackable Currency"
+    BaseType == "Lesser Jeweler's Orb" # TODO Check the BaseType of the item in game
+    SetFontSize 35
+    SetTextColor 240 130 180
+    SetBorderColor 240 130 180
+    PlayAlertSound 1 200
+Show
+    Class == "Stackable Currency"
+    BaseType == "Greater Jeweler's Orb" # TODO Check the BaseType of the item in game
+    SetFontSize 40
+    SetTextColor 240 130 180
+    SetBorderColor 240 130 180
+    SetBackgroundColor 255 255 255 255
+    PlayAlertSound 1 200
+Show
+    Class == "Stackable Currency"
+    BaseType == "Perfect Jeweler's Orb" # TODO Check the BaseType of the item in game
+    SetFontSize 45
+    SetTextColor 240 130 180
+    SetBorderColor 240 130 180
+    SetBackgroundColor 255 255 255 255
+    MinimapIcon 1 Purple Circle
+    PlayEffect Purple
+    PlayAlertSound 6 200
 # The Good Stuff
 # Alchs, Chaos, Regals, Vaals, Exalts
 Show
