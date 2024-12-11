@@ -26,3 +26,7 @@ Uniques
 Rare Items
   Create "main" filter file to add rares.
   Add highlighting for good rare bases
+
+Base Types
+  Add ItemBases.filter file
+  Determine what bases are worth highlighting
