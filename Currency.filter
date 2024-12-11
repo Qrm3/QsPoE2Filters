@@ -42,3 +42,28 @@ Show # Tiny amount of gold
     SetFontSize 20
     SetTextColor  0 155 155
     SetBorderColor 0 155 155
+# The Good Stuff
+Show
+    Class == "Stackable Currency"
+    BaseType == "Orb of Alchemy"
+    SetFontSize 35
+    SetTextColor 240 130 180
+    SetBorderColor 240 130 180
+Show
+    Class == "Stackable Currency"
+    BaseType == "Chaos Orb"
+    SetFontSize 35
+    SetTextColor 240 130 180
+    SetBorderColor 240 130 180
+Show
+    Class == "Stackable Currency"
+    BaseType == "Regal Orb"
+    SetFontSize 35
+    SetTextColor 240 130 180
+    SetBorderColor 240 130 180
+Show
+    Class == "Stackable Currency"
+    BaseType == "Vaal Orb"
+    SetFontSize 35
+    SetTextColor 240 130 180
+    SetBorderColor 240 130 180
