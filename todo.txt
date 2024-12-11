@@ -29,6 +29,7 @@ Uniques
 
 Rare Items
   Add highlighting for good rare bases
+  Determine Item Level tiers for rules
 
 Base Types
   Determine what bases are worth highlighting
