@@ -83,3 +83,13 @@ Show
     SetBackgroundColor 255 255 255 255
     MinimapIcon 1 Purple Circle
     PlayEffect Purple
+    # PlayAlertSound 1 200
+Show
+    Class == "Stackable Currency"
+    BaseType == "Mirror of Kalandra"
+    SetFontSize 45
+    SetTextColor 240 130 180
+    SetBorderColor 240 130 180
+    SetBackGroundColor 255 255 255 255
+    MinimapIcon 2 Purple Star
+    # PlayAlertSound 1 300
