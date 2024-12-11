@@ -5,11 +5,23 @@ Currencies
   Add Orb of Chances
   Add all Currency Shards
   Add all Essences
+    Find Class
+    Find BaseTypes
   Add all Catalysts
+    Find Class
+    Find BaseTypes
   Add all Omens
+    Find Class
+    Find BaseTypes
   Add all Distilled Emotions
+    Find Class
+    Find BaseTypes
   Add all Runes
+    Find Class
+    Find BaseTypes
   Add all Soul Cores
+    Find Class
+    Find BaseTypes
   Add rules for Stacks of currencies
 
 Uniques
