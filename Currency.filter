@@ -92,4 +92,5 @@ Show
     SetBorderColor 240 130 180
     SetBackGroundColor 255 255 255 255
     MinimapIcon 2 Purple Star
+    PlayEffect Purple
     PlayAlertSound 6 300
