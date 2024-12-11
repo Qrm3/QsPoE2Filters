@@ -1,11 +1,8 @@
 TODO List
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Currencies
-  Add Greater Jeweler's Orbs
-  Add Lesser Jeweler's Orbs
   Add Orb of Annulments
   Add Orb of Chances
-  Add Perfect Jeweler's Orbs
   Add all Currency Shards
   Add all Essences
   Add all Catalysts
