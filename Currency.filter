@@ -1,7 +1,22 @@
+# Wisdoms, Augments, Transmutes
 Show
     Class == "Stackable Currency"
     BaseType == "Scroll of Wisdom"
-    SetFontSize 40
+    SetFontSize 20
+    SetTextColor 230 200 130
+    SetBorderColor 230 200 130
+Show
+    Class == "Stackable Currency"
+    BaseType == "Orb of Augmentation"
+    SetFontSize 25
+    SetTextColor 230 200 130
+    SetBorderColor 230 200 130
+Show
+    Class == "Stackable Currency"
+    BaseType == "Orb of Transmutation"
+    SetFontSize 25
+    SetTextColor 230 200 130
+    SetBorderColor 230 200 130
 # Gold 
 Show # Hella Gold
     StackSize >= 1000
@@ -27,4 +42,3 @@ Show # Tiny amount of gold
     SetFontSize 20
     SetTextColor  0 155 155
     SetBorderColor 0 155 155
-
