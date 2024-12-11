@@ -18,6 +18,7 @@ Currencies
   Add all Distilled Emotions
   Add all Runes
   Add all Soul Cores
+  Add rules for Stacks of currencies
 
 Uniques
   Add Uniques.filter file
