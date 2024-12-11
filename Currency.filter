@@ -2,3 +2,29 @@ Show
     Class == "Stackable Currency"
     BaseType == "Scroll of Wisdom"
     SetFontSize 40
+# Gold 
+Show # Hella Gold
+    StackSize >= 1000
+    BaseType == "Gold"
+    SetFontSize 45
+    SetTextColor 0 155 155
+    SetBorderColor 0 155 155
+Show # An amount of gold
+    StackSize >= 200
+    BaseType == "Gold"
+    SetFontSize 40
+    SetTextColor 0 155 155
+    SetBorderColor 0 155 155
+Show # A little gold
+    StackSize >= 50
+    BaseType == "Gold"
+    SetFontSize 35
+    SetTextColor 0 155 155
+    SetBorderColor 0 155 155
+Show # Tiny amount of gold
+    StackSize < 50
+    BaseType == "Gold"
+    SetFontSize 20
+    SetTextColor  0 155 155
+    SetBorderColor 0 155 155
+
