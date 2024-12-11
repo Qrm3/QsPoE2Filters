@@ -1,0 +1,20 @@
+TODO List
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Currencies
+  Add Arcanist's Etcher
+  Add Armorer's Scrap
+  Add Artificer's Orb
+  Add Blacksmith's Whetstones
+  Add Gemcutter's Prisms
+  Add Greater Jeweler's Orbs
+  Add Lesser Jeweler's Orbs
+  Add Orb of Annulments
+  Add Orb of Chances
+  Add Perfect Jeweler's Orbs
+  Add all Currency Shards
+  Add all Essences
+  Add all Catalysts
+  Add all Omens
+  Add all Distilled Emotions
+  Add all Runes
+  Add all Soul Cores
