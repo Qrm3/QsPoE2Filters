@@ -24,3 +24,7 @@ Rare Items
 Base Types
   Determine what bases are worth highlighting
   Determine the Item level tiers of bases
+
+Maps
+  Determine how to filter maps
+  
