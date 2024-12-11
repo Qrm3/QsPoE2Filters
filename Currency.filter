@@ -43,6 +43,7 @@ Show # Tiny amount of gold
     SetTextColor  0 155 155
     SetBorderColor 0 155 155
 # The Good Stuff
+# Alchs, Chaos, Regals, Vaals, Exalts
 Show
     Class == "Stackable Currency"
     BaseType == "Orb of Alchemy"
@@ -75,6 +76,7 @@ Show
     SetBorderColor 240 130 180
     PlayAlertSound 1 200
 # The Best Stuff
+# Divines, Mirrors
 Show
     Class == "Stackable Currency"
     BaseType == "Divine Orb"
