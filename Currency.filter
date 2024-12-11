@@ -67,3 +67,9 @@ Show
     SetFontSize 35
     SetTextColor 240 130 180
     SetBorderColor 240 130 180
+Show
+    Class == "Stackable Currency"
+    BaseType == "Exalted Orb"
+    SetFontSize 45
+    SetTextColor 240 130 180
+    SetBorderColor 240 130 180
