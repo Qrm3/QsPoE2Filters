@@ -1,0 +1,61 @@
+# Filter for patrick because he's too lazy to learn how to make them.
+Show
+    Class == "Body Armours"
+    BaseType = "Votive Raiment"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Body Armours"
+    BaseType = "Keth Raiment"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Body Armours"
+    BaseType = "Altar Robe"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Body Armours"
+    BaseType = "Elementalist Robe"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Body Armours"
+    BaseType = "Mystic Raiment"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Body Armours"
+    BaseType = "Imperial Robe"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Body Armours"
+    BaseType = "Plated Raiment"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Body Armours"
+    BaseType = "Havoc Raiment"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Body Armours"
+    BaseType = "Enlightened Robe"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Body Armours"
+    BaseType = "Arcane Robe"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
