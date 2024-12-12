@@ -63,159 +63,160 @@ Show
 # Boots
 Show
     Class == "Boots"
-    BaseType == "Feathered Sandals"
+    BaseType = "Feathered Sandals"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
 Show
     Class == "Boots"
-    BaseType == "Flax Sandals"
+    BaseType = "Flax Sandals"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
 Show
     Class == "Boots"
-    BaseType == "Studded Sandals"
+    BaseType = "Studded Sandals"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
 Show
     Class == "Boots"
-    BaseType == "Elaborate Sandals"
+    BaseType = "Elaborate Sandals"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
 # Gloves
 Show
     Class == "Gloves"
-    BaseType == "Jewelled Gloves"
+    BaseType = "Jewelled Gloves"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
 Show
     Class == "Gloves"
-    BaseType == "Intricate Gloves"
+    BaseType = "Intricate Gloves"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
 Show
     Class == "Gloves"
-    BaseType == "Adorned Gloves"
+    BaseType = "Adorned Gloves"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
 Show
     Class == "Gloves"
-    BaseType == "Pauascale Gloves"
+    BaseType = "Pauascale Gloves"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
 Show
     Class == "Gloves"
-    BaseType == "Embroidered Gloves"
+    BaseType = "Embroidered Gloves"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
 # Helmets
 Show
     Class == "Helmets"
-    BaseType == "Coral Circlet"
+    BaseType = "Coral Circlet"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
 Show
     Class == "Helmets"
-    BaseType == "Jade Tiara"
+    BaseType = "Jade Tiara"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
 Show
     Class == "Helmets"
-    BaseType == "Noble Circlet"
+    BaseType = "Noble Circlet"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
 Show
     Class == "Helmets"
-    BaseType == "Twilight Tiara"
+    BaseType = "Twilight Tiara"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
 Show
     Class == "Helmets"
-    BaseType == "Magus Tiara"
+    BaseType = "Magus Tiara"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
 # Amulets
 Show
     Class == "Amulets"
-    BaseType == "Azure Amulet"
+    BaseType = "Azure Amulet"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
 Show
     Class == "Amulets"
-    BaseType == "Lapis Amulet"
+    BaseType = "Lapis Amulet"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
 Show
     Class == "Amulets"
-    BaseType == "Lunar Amulet"
+    BaseType = "Lunar Amulet"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
 Show
     Class == "Amulets"
-    BaseType == "Stellar Amulet"
+    BaseType = "Stellar Amulet"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
 Show
     Class == "Amulets"
-    BaseType == "Solar Amulet"
+    BaseType = "Solar Amulet"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
 # Rings
 Show
     Class == "Rings"
-    BaseType == "Lazuli Ring"
+    BaseType = "Lazuli Ring"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
 Show
     Class == "Rings"
-    BaseType == "Sapphire Ring"
+    BaseType = "Sapphire Ring"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
 Show
     Class == "Rings"
-    BaseType == "Ruby Ring"
+    BaseType = "Ruby Ring"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
 Show
     Class == "Rings"
-    BaseType == "Topaz Ring"
+    BaseType = "Topaz Ring"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
 Show
     Class == "Rings"
-    BaseType == "Amethyst Ring"
+    BaseType = "Amethyst Ring"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
 Show
     Class == "Rings"
-    BaseType == "Prismatic Ring"
+    BaseType = "Prismatic Ring"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
 # Wands
+Show
     Class == "Wands"
     SetFontSize 45
     PlayEffect White
@@ -223,19 +224,19 @@ Show
 # Foci
 Show
     Class == "Foci"
-    BaseType == "Antler Focus"
+    BaseType = "Antler Focus"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
 Show
     Class == "Foci"
-    BaseType == "Crystal Focus"
+    BaseType = "Crystal Focus"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
 Show
     Class == "Foci"
-    BaseType == "Plumed Focus"
+    BaseType = "Plumed Focus"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
