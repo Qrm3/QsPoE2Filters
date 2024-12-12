@@ -1,4 +1,5 @@
 # Filter for patrick because he's too lazy to learn how to make them.
+# Body Armor
 Show
     Class == "Body Armours"
     BaseType = "Votive Raiment"
@@ -56,6 +57,185 @@ Show
 Show
     Class == "Body Armours"
     BaseType = "Arcane Robe"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+# Boots
+Show
+    Class == "Boots"
+    BaseType == "Feathered Sandals"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Boots"
+    BaseType == "Flax Sandals"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Boots"
+    BaseType == "Studded Sandals"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Boots"
+    BaseType == "Elaborate Sandals"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+# Gloves
+Show
+    Class == "Gloves"
+    BaseType == "Jewelled Gloves"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Gloves"
+    BaseType == "Intricate Gloves"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Gloves"
+    BaseType == "Adorned Gloves"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Gloves"
+    BaseType == "Pauascale Gloves"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Gloves"
+    BaseType == "Embroidered Gloves"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+# Helmets
+Show
+    Class == "Helmets"
+    BaseType == "Coral Circlet"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Helmets"
+    BaseType == "Jade Tiara"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Helmets"
+    BaseType == "Noble Circlet"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Helmets"
+    BaseType == "Twilight Tiara"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Helmets"
+    BaseType == "Magus Tiara"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+# Amulets
+Show
+    Class == "Amulets"
+    BaseType == "Azure Amulet"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Amulets"
+    BaseType == "Lapis Amulet"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Amulets"
+    BaseType == "Lunar Amulet"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Amulets"
+    BaseType == "Stellar Amulet"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Amulets"
+    BaseType == "Solar Amulet"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+# Rings
+Show
+    Class == "Rings"
+    BaseType == "Lazuli Ring"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Rings"
+    BaseType == "Sapphire Ring"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Rings"
+    BaseType == "Ruby Ring"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Rings"
+    BaseType == "Topaz Ring"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Rings"
+    BaseType == "Amethyst Ring"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Rings"
+    BaseType == "Prismatic Ring"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+# Wands
+    Class == "Wands"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+# Foci
+Show
+    Class == "Foci"
+    BaseType == "Antler Focus"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Foci"
+    BaseType == "Crystal Focus"
+    SetFontSize 45
+    PlayEffect White
+    PlayAlertSound 1 200
+Show
+    Class == "Foci"
+    BaseType == "Plumed Focus"
     SetFontSize 45
     PlayEffect White
     PlayAlertSound 1 200
