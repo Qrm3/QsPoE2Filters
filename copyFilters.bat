@@ -14,5 +14,5 @@ SET DESTDIR=C:\Users\Quinten\Documents\My Games\Path of Exile 2
 
 :: Copy Filters
 ECHO Copying Filters to %DESTDIR%
-COPY /Y "%ROOTDIR%\*.filter" "%DESTDIR%"
+COPY /Y "%ROOTDIR%\QsFilter.filter" "%DESTDIR%"
 
