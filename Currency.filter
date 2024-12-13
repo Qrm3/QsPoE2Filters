@@ -46,25 +46,25 @@ Show
 # Arcanist's Etcher, Armorer's Scrap, Blacksmith's Whetstones, Gemcutter's Prisms
 Show
     Class == "Stackable Currency"
-    BaseType == "Arcanist's Etcher" # TODO Check the BaseType of the item in game
+    BaseType == "Arcanist's Etcher"
     SetFontSize 30
     SetTextColor 240 130 180
     SetBorderColor 240 130 180
 Show
     Class == "Stackable Currency"
-    BaseType == "Armorer's Scrap" # TODO Check the BaseType of the item in game
+    BaseType == "Armourer's Scrap"
     SetFontSize 30
     SetTextColor 240 130 180
     SetBorderColor 240 130 180
 Show
     Class == "Stackable Currency"
-    BaseType == "Blacksmith's Whetstone" # TODO Check the BaseType of the item in game
+    BaseType == "Blacksmith's Whetstone"
     SetFontSize 30
     SetTextColor 240 130 180
     SetBorderColor 240 130 180
 Show
     Class == "Stackable Currency"
-    BaseType == "Gemcutter's Prism" # TODO Check the BaseType of the item in game
+    BaseType == "Gemcutter's Prism"
     SetFontSize 30
     SetTextColor 240 130 180
     SetBorderColor 240 130 180
@@ -72,14 +72,14 @@ Show
 # Lesser, Greater, Perfect
 Show 
     Class == "Stackable Currency"
-    BaseType == "Lesser Jeweler's Orb" # TODO Check the BaseType of the item in game
+    BaseType == "Lesser Jeweller's Orb"
     SetFontSize 35
     SetTextColor 240 130 180
     SetBorderColor 240 130 180
     PlayAlertSound 1 200
 Show
     Class == "Stackable Currency"
-    BaseType == "Greater Jeweler's Orb" # TODO Check the BaseType of the item in game
+    BaseType == "Greater Jeweller's Orb"
     SetFontSize 40
     SetTextColor 240 130 180
     SetBorderColor 240 130 180
@@ -87,7 +87,7 @@ Show
     PlayAlertSound 1 200
 Show
     Class == "Stackable Currency"
-    BaseType == "Perfect Jeweler's Orb" # TODO Check the BaseType of the item in game
+    BaseType == "Perfect Jeweller's Orb"
     SetFontSize 45
     SetTextColor 240 130 180
     SetBorderColor 240 130 180
@@ -146,7 +146,7 @@ Show
     SetFontSize 45
     SetTextColor 240 130 180
     SetBorderColor 240 130 180
-    SetBackGroundColor 255 255 255 255
+    SetBackgroundColor 255 255 255 255
     MinimapIcon 2 Purple Star
     PlayEffect Purple
     PlayAlertSound 6 300
